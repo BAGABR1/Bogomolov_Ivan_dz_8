@@ -15,4 +15,4 @@ def email_parse(email_ad):
         print(dict1)
 
 
-email_parse(input('Введите адрес электронной почты'))
+email_parse(input('Введите адрес электронной почты: '))
